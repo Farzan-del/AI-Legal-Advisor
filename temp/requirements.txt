@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-docx
-sqlalchemy
-langchain
-langchain-google-genai
-google-generativeai
-python-dotenv
-tavily-python
